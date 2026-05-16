@@ -13,9 +13,9 @@ def main():
     comp_score = 0
     
     print("=== ROCK PAPER SCISSORS GAME ===")
-    
+    print("Rules:Rock beats Scissors,Scissors beats Paper,Ppaper beats Rock\n")
     while True:
-        print("\nChoose: 1.Rock 2.Paper 3.Scissors 0.Exit")
+        print("Choose: 1.Rock 2.Paper 3.Scissors 0.Exit")
         try:
             user_choice = int(input("Enter your choice: "))
         except ValueError:
@@ -33,7 +33,6 @@ def main():
         print(f"\nYou chose: {get_choice_name(user_choice)}")
         print(f"Computer chose: {get_choice_name(comp_choice)}")
         
-        # Game logic
         if user_choice == comp_choice:
             print("Result: It's a TIE!")
         elif (user_choice == 1 and comp_choice == 3) or \
