@@ -17,3 +17,16 @@ Run: `python rock_paper_scissors.py`
 
 ## Requirements
 - Python 3.x
+
+
+
+## 📸 Output Screenshots
+
+### 1. Calculator
+![Calculator Output](WhatsApp%20Image%202026-06-05%20at%2012.25.59%20PM.jpeg)
+
+### 2. To-Do List 
+![ToDo Output](WhatsApp%20Image%202026-06-05%20at%2012.25.59%20PM%20(1).jpeg)
+
+### 3. Rock Paper Scissors
+![RPS Game](WhatsApp%20Image%202026-06-05%20at%2012.25.58%20PM.jpeg)
