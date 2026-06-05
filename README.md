@@ -1,32 +1,40 @@
 # CodSoft Python Internship Projects
 
-## 1. Calculator
-A GUI calculator built with Tkinter that performs addition, subtraction, multiplication, and division.
+This repository contains the Python programming tasks completed for the CodSoft Internship.
 
-Run: `python calculator1.py`
+## 📋 Tasks Completed
 
-## 2. To-Do List  
-A task manager GUI to add, view, and delete tasks.
+### Task 1: Calculator
+A simple calculator built using Python that performs basic arithmetic operations like Addition, Subtraction, Multiplication, and Division.
 
-Run: `python todo.py`
+**File:** `calculator1.py`
 
-## 3. Rock Paper Scissors Game
-Play against the computer with score tracking.
+### Task 2: To-Do List 
+A command-line To-Do List application to add, view, update, and delete tasks. It helps in managing daily tasks efficiently.
 
-Run: `python rock_paper_scissors.py`
+**File:** `todo.py`
 
-## Requirements
-- Python 3.x
+### Task 3: Rock Paper Scissors Game
+A classic Rock-Paper-Scissors game where the user plays against the computer. The computer's choice is generated randomly.
 
-
+**File:** `rock_paper_scissors.py`
 
 ## 📸 Output Screenshots
 
 ### 1. Calculator
-![Calculator Output](WhatsApp%20Image%202026-06-05%20at%2012.25.59%20PM.jpeg)
+![Calculator Output](calculator.jpeg)
 
 ### 2. To-Do List 
-![ToDo Output](WhatsApp%20Image%202026-06-05%20at%2012.25.59%20PM%20(1).jpeg)
+![ToDo Output](to-do-list.jpeg)
 
 ### 3. Rock Paper Scissors
-![RPS Game](WhatsApp%20Image%202026-06-05%20at%2012.25.58%20PM.jpeg)
+![RPS Game](rock%20paper%20scissors.jpeg)
+
+## 🚀 How to Run
+1. Clone the repository: `git clone https://github.com/raikholaankita/CodSoft-Python-Project`
+2. Navigate to the folder
+3. Run any file using: `python filename.py`
+
+## 🔗 Connect with Me
+**Name:** Ankita Raikhola  
+**GitHub:** [@raikholaankita](https://github.com/raikholaankita)
